@@ -1,0 +1,2 @@
+# myalgo
+algorithm exercise
